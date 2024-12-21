@@ -1,1 +1,1 @@
-# continuation of implementing news website (Lesson 22)
+# continuation of implementing news website (Lesson 22 hw)
