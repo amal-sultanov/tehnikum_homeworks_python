@@ -5,7 +5,7 @@ import logging
 # WARNING - 20
 # ERROR - 30
 # CRITICAL - 40
-# separate file foe each level
+# separate file for each level
 
 logging.basicConfig(filename='logs/logs.log', filemode='a',
                     format='%(asctime)s | %(process)d | %(name)s | %(levelname)s | %(message)s',
