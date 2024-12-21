@@ -3,7 +3,7 @@ import telebot
 bot = telebot.TeleBot('')
 TOKEN_CLICK = ''
 TOKEN_PAYME = ''
-de
+
 
 @bot.message_handler(commands=['start'])
 def start(message):
